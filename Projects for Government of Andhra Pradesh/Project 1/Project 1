@@ -1,1 +1,22 @@
+Task:
+In the Excel Sheet:
 
+Eligibility criteria for the schools to be accepted are like for example in these schools:
+*MPUPS PEDAPULIPAKA
+(UPS is - Upper Primary School)
+For schools to be selected it needs to be --- 135 or above 135.
+
+*ZPHS ATKURU
+(HS is - High School) 
+For schools to be selected it needs to be --- 135 or above 135.
+
+*MPPS CHINNACHEPPALLI
+( PS is - Primary School)
+For schools to be selected it needs to be-- 72 or above 72.
+
+What you need to do with the data is that:
+1. First of all, from this list of sheet find out the schools that have not made it to the eligibility criteria. Make a separate sheet for that list.
+
+2. Make another sheet for the schools that have met the eligibility criteria. 
+
+3. In the third list, What are the schools that have neither met eligibility nor in the other school list?
